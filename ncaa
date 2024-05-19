@@ -230,11 +230,11 @@
           "rival" : "PITT"
         },
         {
-          "abbreviation" : "ND",
-          "state" : "Indiana",
+          "abbreviation" : "MSUƒ",
+          "state" : "Maryland",
           "prestige" : "95",
-          "name" : "Notre Dame",
-          "rival" : "CLEM"
+          "name" : "Morgan State",
+          "rival" : "MSU"
         }
       ],
       "confFullName" : "Atlantic Coast",
